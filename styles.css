@@ -1,0 +1,37 @@
+
+        .card {
+            width: 300px;
+            border-style: outset;
+       }
+
+
+        .italic {
+            font-style: italic
+        }
+  
+        .bold { font-weight: bold;
+        }  
+
+        ul {
+            list-style-type: none;
+           
+        }
+
+
+        .border {
+
+            border-style: groove;
+        }
+
+        .padding{
+            padding: 5px;
+        }
+
+       .blue{
+           color: rgb(0, 0, 255);
+        }
+
+       .green {
+           color: rgb(42, 162, 42);
+        }
+
